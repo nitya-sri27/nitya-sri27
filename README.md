@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 ## 📖 About Me
 - 🎯 Aspiring Data Analyst
 - 🎓 Bachelor's in Computer Science
-- 📍 [Your City, State]
-- 📫 Reach me at [your email or LinkedIn link]
+- 📍 Tanuku, Andhra Pradesh
+- 📫 Reach me at nekkantinityasri@gmail.com
 
 ## 🏆 Achievements & Certifications
 - 📜 [Data Analyst Certification](#) – A certification in data analytics fundamentals
-- 📜 [PwC Switzerland Power BI](#) – Power BI training by PwC
-- 📜 [Data Analyst Intern](#) – Internship experience as a Data Analyst
+- 📜 
+- 📜 
 
 ## 🛠 Tools and Languages
 ![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
