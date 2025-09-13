@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- 📊 [[Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis)](#) – Short description of what you built or analyzed
-- 📊 [Project 2](#) – Short description of another project
-- 📊 [Project 3](#) – Short description of another project
+- 📊 [Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis) – Short description of what you built or analyzed
+- 📊 [Insurance-Risk & Claims-Analysis](https://github.com/nitya-sri27/Insurance-Risk-Claims-Analysis) – Short description of another project
+- 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using        Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
 <!--
 **nitya-sri27/nitya-sri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
