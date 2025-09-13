@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- 📊 [Project 1](#) – Short description of what you built or analyzed
+- 📊 [[Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis)](#) – Short description of what you built or analyzed
 - 📊 [Project 2](#) – Short description of another project
 - 📊 [Project 3](#) – Short description of another project
 <!--
