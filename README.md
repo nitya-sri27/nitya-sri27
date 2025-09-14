@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 
 ## 📖 About Me
 - 🎯 Aspiring Data Analyst
-- 🎓 Bachelor's in Computer Science
-- 📍 Tanuku, Andhra Pradesh
-- 📫 Reach me at nekkantinityasri@gmail.com
+- 🎓 Bachelor's in Artificial Intelligence And Machine Learning
 
 ## 🏆 Achievements & Certifications
 - 📜 [Data Analytics Short-Term Internship] – [View](https://drive.google.com/file/d/14WVIkqd_RUXKCSKLyTNiyzyVtrNXeat3/view?usp=drive_link)
@@ -24,6 +22,14 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 - 📊 [Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis) – Analyzed Netflix’s dataset using Python to explore content trends, genre distribution and etc.Created visualizations to provide insights into how Netflix’s global content strategy has evolved over time.
 - 📊 [Insurance-Risk & Claims-Analysis](https://github.com/nitya-sri27/Insurance-Risk-Claims-Analysis) – An interactive Power BI dashboard analyzing insurance claims data, highlighting total policies, claim patterns, and trends. Helps identify high-risk segments and supports data-driven decision-making.
 - 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
+
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-sri-822559255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekkantinityasri@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+
 <!--
 **nitya-sri27/nitya-sri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
