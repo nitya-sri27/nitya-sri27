@@ -24,9 +24,15 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 - 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
 
 ## 📬 Let's Connect!
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-sri-822559255/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekkantinityasri@gmail.com)
+
+</div>
+
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
