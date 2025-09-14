@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 - 📫 Reach me at nekkantinityasri@gmail.com
 
 ## 🏆 Achievements & Certifications
-- 📜 [Data Analyst Certification](#) – A certification in data analytics fundamentals
+- 📜 [Data Analytics Short-Term Internship](<img width="1536" height="1119" alt="image" src="https://github.com/user-attachments/assets/b8e3b3f7-5084-4883-afef-4f69b4beb26b" />) – Completed Short Term Internship on Data Analytics Organized by ExcelR Edtech Pvt. Ltd. in collaboration with APSCHE.
 - 📜 
 - 📜 
 
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- 📊 [Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis) – Short description of what you built or analyzed
-- 📊 [Insurance-Risk & Claims-Analysis](https://github.com/nitya-sri27/Insurance-Risk-Claims-Analysis) – Short description of another project
-- 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using        Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
+- 📊 [Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis) – Analyzed Netflix’s dataset using Python to explore content trends, genre distribution and etc.Created visualizations to provide insights into how Netflix’s global content strategy has evolved over time.
+- 📊 [Insurance-Risk & Claims-Analysis](https://github.com/nitya-sri27/Insurance-Risk-Claims-Analysis) – An interactive Power BI dashboard analyzing insurance claims data, highlighting total policies, claim patterns, and trends. Helps identify high-risk segments and supports data-driven decision-making.
+- 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
 <!--
 **nitya-sri27/nitya-sri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
