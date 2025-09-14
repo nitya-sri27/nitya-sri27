@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 - 📫 Reach me at nekkantinityasri@gmail.com
 
 ## 🏆 Achievements & Certifications
-- 📜 [Data Analytics Short-Term Internship](https://drive.google.com/file/d/14WVIkqd_RUXKCSKLyTNiyzyVtrNXeat3/view?usp=drive_link) – Completed Short Term Internship on Data Analytics Organized by ExcelR Edtech Pvt. Ltd. in collaboration with APSCHE.
-- 📜 
-- 📜 
+- 📜 [Data Analytics Short-Term Internship] – [View](https://drive.google.com/file/d/14WVIkqd_RUXKCSKLyTNiyzyVtrNXeat3/view?usp=drive_link)
+- 📜 [Data Analytics Certification] - [View](https://drive.google.com/file/d/1nV2ic0RlQySgMsZMsYbB9bNuC-rX0TYM/view?usp=drive_link)
+- 📜 [Soft Skills] - [View](https://drive.google.com/file/d/1Deg7Swffjt_KkGXNC0GuSP4qAnKkrPVT/view?usp=drive_link)
 
 ## 🛠 Tools and Languages
 ![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
